@@ -1,0 +1,6 @@
+2025-10-14 05:40:02.468 EDT [1045] LOG:  starting PostgreSQL 16.10 (Ubuntu 16.10-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, 64-bit
+2025-10-14 05:40:02.468 EDT [1045] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-10-14 05:40:02.468 EDT [1045] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-10-14 05:40:02.468 EDT [1045] WARNING:  could not create listen socket for "localhost"
+2025-10-14 05:40:02.469 EDT [1045] FATAL:  could not create any TCP/IP sockets
+2025-10-14 05:40:02.472 EDT [1045] LOG:  database system is shut down
